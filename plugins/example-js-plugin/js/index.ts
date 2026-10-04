@@ -1,8 +1,9 @@
 export default plugin({
 	start() {
-		console.log('[js-plugin] started')
+		console.log('🔥 BETA PLUGIN STARTED!')
 	},
+
 	stop() {
-		console.log('[js-plugin] stopped')
+		console.log('🛑 BETA PLUGIN STOPPED!')
 	},
 })
