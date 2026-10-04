@@ -1,9 +1,9 @@
 export default plugin({
 	start() {
-		console.log('🔥 BETA DISCORD ENHANCER STARTED!')
+		console.log('🔥 BETA PLUGIN STARTED!')
 	},
 
 	stop() {
-		console.log('🛑 BETA DISCORD ENHANCER STOPPED!')
+		console.log('🛑 BETA PLUGIN STOPPED!')
 	},
 })
